@@ -6,22 +6,21 @@
       </head>
     <body>
     
-    <img src= "
+    <img src= "Final Project(1).png">
+    
       
      
-      The program works as a cell phone. it has the applications you need in every phone. It is programmed to open the application once you click on it. </p>
+      <h2> The program works as a cell phone. it has the applications you need in every phone. It is programmed to open the application once you click on it. </h2>
         
         
         
-        <tr>
-          <td> <a href="index.html"> <img src="aboutme.png"> </a>
+       
+          
 
-          </td>
-          <td> <a href="about.html"> <img src=" pasted image 0 (1).png"> </a> </td>
-           <td> <a href="Javascript.html"> <img src="pasted image 0.png"> </a> </td>
-  
-                   </tr>
+          
+          
+                   
                    </thead>
-                   </table>
+                   </body>
     
 
