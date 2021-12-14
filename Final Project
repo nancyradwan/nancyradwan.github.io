@@ -5,22 +5,19 @@
       <title>Final Project</title>
       </head>
     <body>
-    
-    <img src= "Final Project(1).png">
-    
       
-     
-      <h2> The program works as a cell phone. it has the applications you need in every phone. It is programmed to open the application once you click on it. </h2>
+      <img src="Final Project (1)">
+     <h2> <a program </a> </h2>
         
         
-        
-       
-          
-
-          
-          
-                   
+        <table>
+        <tr>
+          <td> <a href="index.html"> <img src="aboutme.png"> </a>
+          </td>
+          <td> <a href="about.html"> <img src=" pasted image 0 (1).png"> </a> </td>
+           <td> <a href="Javascript.html"> <img src="pasted image 0.png"> </a> </td>
+  
+                   </tr>
                    </thead>
-                   </body>
+                   </table>
     
-
