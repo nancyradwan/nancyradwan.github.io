@@ -1,0 +1,16 @@
+body {
+background-color:Darkgreen;
+}
+
+/length 
+{
+width:500px;
+float:left;
+margin-left :10px;
+}
+
+stuff2 {
+width:500px;
+float:right;
+margin-right :10px
+}
